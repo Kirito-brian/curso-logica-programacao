@@ -26,7 +26,7 @@ Inicio
       se x = 10 entao
         // interrompa
       fimse
-   ate falso
+   ate verdadeiro
 
 Fimalgoritmo
 
